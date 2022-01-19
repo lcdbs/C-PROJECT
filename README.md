@@ -1,2 +1,2 @@
-# C-PROJECT
+# C# PROJECT
 exercice en c#
